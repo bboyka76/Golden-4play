@@ -1,5 +1,5 @@
 token=NTM4MDMzNzQ1MTc4MTMyNDk3.Dy1rmg.B4FHQDy8Ybg5nRyyz0o9GwHvw-k
-owner=466425075487342615
-prefix=h
-game=Type hplay
+owner=522322289547804693
+prefix=m
+game=Type mhelp
 stayinchannel=true
